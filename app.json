@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "news",
+    "icon": "icon.png",
+    "slug": "news",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.alessflame.news"
+    }
+  }
+}
