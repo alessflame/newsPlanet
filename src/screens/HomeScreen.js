@@ -19,9 +19,6 @@ import NewsItem from "../components/NewsItem";
 import NotElement from "../components/Message";
 import { currentDay } from "../common/date";
 
-// https://newsapi.org/v2/top-headlines?country=it&apiKey=2144d1e6f7d640e8a0f4d011f62b1bd6
-
-// https://newsapi.org/v2/everything?q=Apple&from=2022-06-29&apiKey=2144d1e6f7d640e8a0f4d011f62b1bd6
 
 export default function HomeScreen() {
   const { news } = useSelector((state) => state);
